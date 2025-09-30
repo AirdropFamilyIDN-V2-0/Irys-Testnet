@@ -1,5 +1,6 @@
 # Irys-Testnet
-<img width="1170" height="438" alt="image" src="https://github.com/user-attachments/assets/ee2b8a12-804b-4c70-9f25-e3f1b320a02a" />
+<img width="1283" height="557" alt="image" src="https://github.com/user-attachments/assets/d93acb9d-24f6-4ab8-9f52-cec0eea83eca" />
+
 
 **AirdropFamilyIDN BOT / SCRIPT** untuk *auto-game* di Irys Arcade testnet.
 
